@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hukmesh </h1>
-<h3 align="center">Infosec learner , Bug hunter,Tech lover🌟.</h3>
+<h3 align="center">Solidity Auditor🌟.</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Into Web3 Security , Solidity auditor.
 
 
 - ⚡ Fun fact :- Animation and Music🎵 are the reasons to live.
